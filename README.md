@@ -1,2 +1,2 @@
 # sksrilok
-Seeker
+learner 
